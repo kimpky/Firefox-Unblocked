@@ -9,6 +9,8 @@ setlocal
 
 set "SCRIPT_DIR=%~dp0"
 set "PACK=%SCRIPT_DIR%FirefoxPack"
+:: Also accept the zip parts sitting next to this script (no FirefoxPack folder)
+if not exist "%PACK%\firefox.zip.001" if exist "%SCRIPT_DIR%firefox.zip.001" set "PACK=%SCRIPT_DIR:~0,-1%"
 set "ZIP_PATH=%PACK%\firefox.zip"
 set "TEMP_ZIP="
 set "DEST=%LOCALAPPDATA%\FirefoxPortable"
