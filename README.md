@@ -1,4 +1,4 @@
-# Firefox-Unblocked
+# Firefawx Unblocked OwO
 A batch file that installs firefox on your school PC without requiring administrator rights!
 
 The script:
