@@ -33,3 +33,6 @@ The script:
 No Firefox files have been modified. They come from the official Mozilla installer, extracted and re-zipped. Firefox is a trademark of the Mozilla Foundation, and this project is not affiliated with or endorsed by Mozilla.
 
 ~~Make sure you're allowed to run this on the computer you're using. Many schools and workplaces have rules about installing or running software that hasn't been approved, and you're responsible for following them. The author isn't responsible for any consequences of using this script.~~
+
+thanks to: https://github.com/prestonGarvey1/Unblocked-Steam for giving me the idea for this
+by the way, the entire batch file and majority of this repo was made with ai, fuck ai but.. who doesnt want firefox unblocked with no web filter?
